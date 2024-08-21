@@ -2,10 +2,6 @@
 
 [postcss]: https://github.com/postcss/postcss
 
-
-[![npm](https://img.shields.io/npm/v/postcss-grid-reset.svg)](https://www.npmjs.com/package/postcss-grid-reset) [![Build Status][ci-img]][ci]
-[![npm](https://img.shields.io/npm/dt/postcss-grid-reset.svg)](https://www.npmjs.com/package/postcss-grid-reset)
-
 [PostCSS] plugin for resetting CSS Grid. This plugin adds rule `min-width:0` to all direct descendants of element `display: grid`.
 
 [postcss]: https://github.com/postcss/postcss
