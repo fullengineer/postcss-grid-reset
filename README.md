@@ -55,10 +55,6 @@ module.exports = {
 
 [official docs]: https://github.com/postcss/postcss#usage
 
-## Changelog
-
-See [Releases history]
-
 ## License
 
 [MIT]
